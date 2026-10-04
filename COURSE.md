@@ -1,5 +1,5 @@
 ---
-ru: "Нейросетевые технологии в задачах синтетических медиа"
+ru: "2026/2027 Нейросетевые технологии в задачах синтетических медиа (очная)"
 en: "Neural Network Technologies for Synthetic Media"
 code: "NNTSM-2026"
 origin: "https://edu.susu.ru/course/view.php?id=216952"

@@ -1,5 +1,3 @@
-# Нейросетевые технологии в задачах синтетических медиа
+# 2026/2027 Нейросетевые технологии в задачах синтетических медиа (очная)
 
-Neural Network Technologies for Synthetic Media
-
-[NNTSM-2026 — описание курса и материалы](COURSE.md).
+## Neural Network Technologies for Synthetic Media
