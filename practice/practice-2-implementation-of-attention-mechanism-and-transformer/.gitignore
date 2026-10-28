@@ -1,3 +1,7 @@
 # Local temporary files
 /.cache/
 /.report/
+
+# Pretrained models downloaded from Moodle
+/model.tar.xz
+/model_cs.tar.xz
